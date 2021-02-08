@@ -7,6 +7,11 @@
             <param-name>admin</param-name>
             <param-value>admin</param-value>
         </init-param>
+
+        <init-param>
+            <param-name>qwerty</param-name>
+            <param-value>qwerty</param-value>
+        </init-param>
     </servlet>
 
     <servlet>
